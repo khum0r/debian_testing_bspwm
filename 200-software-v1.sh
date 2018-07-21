@@ -57,7 +57,7 @@ sudo apt-get install -y curl
 sudo apt-get install -y dmidecode
 sudo apt-get install -y git
 sudo apt-get install -y glances
-sudo apt-get install -y gtk2-engine-murrine
+sudo apt-get install -y gtk2-engines-murrine
 sudo apt-get install -y gvfs
 sudo apt-get install -y hardinfo
 sudo apt-get install -y hddtemp
