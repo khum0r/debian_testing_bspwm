@@ -82,8 +82,6 @@ sudo apt-get install -y tumbler
 sudo apt-get install -y vnstat
 sudo apt-get install -y wget
 sudo apt-get install -y unclutter
-sudo apt-get install -y rxvt-unicode
-sudo apt-get install -y urxvt-perls
 #sudo apt-get install -y xdg-user-dirs
 #sudo apt-get install -y
 
