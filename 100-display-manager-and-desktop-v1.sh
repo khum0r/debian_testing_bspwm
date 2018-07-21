@@ -9,5 +9,5 @@ LIST_OF_APPS="firmware-linux lightdm lightdm-gtk-greeter lightdm-gtk-greeter-set
 
 sudo apt-get update
 sudo apt-get install -y $LIST_OF_APPS
-sudo systemctl enable lighdm.service -f
+sudo systemctl enable lightdm.service -f
 sudo systemctl set-default graphical.target
