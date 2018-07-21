@@ -55,6 +55,7 @@ echo "Installing category Other"
 
 echo "Installing category System"
 
+sudo apt-get install -y rofi
 sudo apt-get install -y neofetch
 sudo apt-get install -y inxi
 sudo apt-get install -y compton compton-conf
