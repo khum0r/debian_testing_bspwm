@@ -9,3 +9,7 @@ LIST_OF_APPS="build-essentials cmake cmake-data libcairo2-dev libxcb1-dev libxcb
 
 sudo apt-get update
 sudo apt-get install -y $LIST_OF_APPS
+
+git clone https://github.com/jaagr/polybar.git
+
+cd polybar && ./build.sh
