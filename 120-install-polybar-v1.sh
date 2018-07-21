@@ -9,4 +9,3 @@ LIST_OF_APPS="cmake cmake-data libcairo2-dev libxcb1-dev libxcb-ewmh-dev libxcb-
 
 sudo apt-get update
 sudo apt-get install -y $LIST_OF_APPS
-
