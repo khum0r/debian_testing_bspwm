@@ -34,6 +34,7 @@ echo "Installing category Internet"
 
 sudo apt-get install -y firefox-esr
 sudo apt-get install -y weechat weechat-scripts
+sudo apt-get install -y mutt
 #sudo apt-get install -y
 
 echo "Installing category Multimedia"
@@ -45,6 +46,7 @@ sudo apt-get install -y vlc
 echo "Installing category Office"
 
 #sudo apt-get install -y libreoffice-fresh
+sudo apt-get install -y vim
 #sudo apt-get install -y
 
 echo "Installing category Other"
@@ -53,6 +55,9 @@ echo "Installing category Other"
 
 echo "Installing category System"
 
+sudo apt-get install -y neofetch
+sudo apt-get install -y inxi
+sudo apt-get install -y compton compton-conf
 sudo apt-get install -y curl
 sudo apt-get install -y dmidecode
 sudo apt-get install -y git
