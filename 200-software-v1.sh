@@ -80,7 +80,7 @@ sudo apt-get install -y simple-scan
 sudo apt-get install -y sysstat
 #sudo apt-get install -y terminator
 sudo apt-get install -y termite
-sudo apt-get install -y stterm
+#sudo apt-get install -y stterm
 #sudo apt-get install -y thunar
 #sudo apt-get install -y thunar-archive-plugin
 #sudo apt-get install -y thunar-volman
